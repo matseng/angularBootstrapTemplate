@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # matseng: To run on the command line:
-#  $rm -rf .git  //removes previous git commits
-#  $git init
-#  $./gitcreate_v02.sh
-#  $git add .
-#  $git commit -m "Initial commit"
+#  $ rm -rf .git  //removes previous git commits
+#  $ git init
+#  $ git add .
+#  $ git commit -m "Initial commit"
+#  $ ./gitcreate_v02.sh
  
 # This script create a new repo on github.com, then pushes to it the local repo from the current directory.
  

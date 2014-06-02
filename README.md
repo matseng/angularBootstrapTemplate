@@ -3,6 +3,6 @@ README.md
 #  $ cp -r angularBootstrapTemplate myNewProjectName
 #  $ rm -rf .git  //removes previous git commits from the template repo
 #  $ git init
-#  $ ./gitcreate_v02.sh
 #  $ git add .
 #  $ git commit -m "Initial commit"
+#  $ ./gitcreate-v03.sh

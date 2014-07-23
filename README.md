@@ -10,3 +10,7 @@ README.md
 # Optional: To install angular-animate:
   #bower install angular-animate -S
   #Note: By default, angular-animate has already been included in .gitignore and index.html
+
+# Optional: Deploy static site on gh-pages
+  # $ gpo master: gh-page
+  # Visit http://matseng.github.io/RepoName
